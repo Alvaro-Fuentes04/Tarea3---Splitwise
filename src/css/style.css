@@ -306,8 +306,9 @@ img {
   border-radius: 50%;
 }
 
-/* Asegúrate de que el contenedor de balances tenga scroll si es necesario */
 #balances {
   max-height: 100vh;
   overflow-y: auto;
 }
+
+/*This is just a comment*/
